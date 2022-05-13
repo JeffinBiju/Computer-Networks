@@ -1,0 +1,5 @@
+Game: 1 Player1: 1 Player2: 2 Result: 1 Moves: 1 4 2 5 3 
+Game: 2 Player1: 1 Player2: 2 Result: 1 Moves: 2 4 1 5 3 
+Game: 3 Player1: 3 Player2: 4 Result: 1 Moves: 1 4 2 5 3 
+Game: 4 Player1: 3 Player2: 4 Result: 1 Moves: 1 2 4 5 3 6 7 
+Game: 5 Player1: 3 Player2: 4 Result: 1 Moves: 1 2 4 5 7 

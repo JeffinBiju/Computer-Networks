@@ -1,0 +1,90 @@
+Shows Game id, Player 1 and Player 2 id, Sequence of moves in (row, col) format indexed by 1 and Result.
+Result:
+-2: player disconnected
+-1: timeout
+0: draw
+1: Player O (odd id) won
+2: Player X (even id) won
+
+
+
+
+Game: 1
+ Player1 id: 1
+ Player2 id: 2
+ Result: -1 
+Moves:
+
+
+
+
+Game: 2
+ Player1 id: 1
+ Player2 id: 2
+ Result: 1 
+Moves:
+Player1: (1, 1)
+Player2: (1, 2)
+Player1: (2, 1)
+Player2: (2, 2)
+Player1: (3, 1)
+
+
+
+
+Game: 3
+ Player1 id: 1
+ Player2 id: 2
+ Result: -2 
+Moves:
+
+
+
+
+Game: 4
+ Player1 id: 3
+ Player2 id: 4
+ Result: -1 
+Moves:
+
+
+
+
+Game: 5
+ Player1 id: 5
+ Player2 id: 6
+ Result: -1 
+Moves:
+
+
+
+
+Game: 6
+ Player1 id: 3
+ Player2 id: 4
+ Result: -1 
+Moves:
+Player1: (1, 1)
+Player2: (1, 2)
+
+
+
+
+Game: 8
+ Player1 id: 3
+ Player2 id: 4
+ Result: -2 
+Moves:
+Player1: (2, 2)
+Player2: (2, 3)
+
+
+
+
+Game: 7
+ Player1 id: 5
+ Player2 id: 6
+ Result: -1 
+Moves:
+Player1: (1, 2)
+Player2: (2, 1)
